@@ -24,3 +24,12 @@ Thrilled to share my latest project where I harnessed the power of **AWS Config*
 🌟 **Key Takeaway**: Embracing AWS Config empowers us to proactively manage compliance and enhances our cloud governance strategy.
 
 If you're interested in cloud compliance, automation, or AWS solutions, let’s connect!.
+
+
+Don't forgot to add the rules to IAM if you are using a IAM user.
+
+AWSLambdabasicexecution
+Cloudwatchfullaccess
+AWSEC2fullaccess
+AWS_configrole
+AWSCloudtrail_Fullaccess.
